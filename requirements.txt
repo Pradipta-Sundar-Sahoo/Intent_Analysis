@@ -1,0 +1,11 @@
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+transformers
+tf-keras
+streamlit-lottie
+streamlit
+python-dotenv
